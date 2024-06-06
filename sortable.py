@@ -13,6 +13,6 @@ class ValueType:
 if __name__ == '__main__':
     arr = [ValueType(i) for i in range(10)]
     shuffle(arr)
-    sorted_arr = sorted(arr)
+    sorted_arr = sorted(arr)  # this doesn't work, yet!
     print(arr)
     print(sorted_arr)
