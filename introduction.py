@@ -1,3 +1,6 @@
+""" Fancy Sort: Python Workshop
+GitHub: https://github.com/BrokenShell/FancySortWorkshop
+"""
 
 # Sort with .sort()
 arr_1 = [2, 9, 1, 8, 3, 7, 4, 6, 5]
